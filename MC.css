@@ -1,0 +1,380 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#a2{
+    display: flex;
+    padding-right: 20px;
+    margin-top: 15px;
+}
+.a1{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: gray;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+#country{
+    border: none;
+    margin-left: 25px;
+}
+#Mo{
+    border: none;
+    margin-right: 25px;
+}
+#Nhap{
+    border: none;
+    margin-right: 25px;
+}
+#search{
+    background-color: white;
+    border: none;
+}
+.Tieude{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-around;
+    color: gray;
+}
+#td1{
+    margin-right: 15px;
+}
+#td2{
+    color:black;
+    
+}
+#td3{
+    color: red;
+}
+#td{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#pic1{
+    margin-top: 25px;
+    width: 1300px;
+}
+#pic{
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    
+}
+#pic2{
+    margin-top: -510px;
+}
+p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 25px;
+}
+#cot1-1{
+   padding: 18px;
+   background-color: white;
+   color: black;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#cot1{
+    margin-top: 90px;
+    margin-left: 90px;
+    float: flex;
+    height: 260px;
+}
+
+input{
+    border: none;
+    padding: 18px;
+   background-color: white;
+}
+#as{
+    margin-left: 25px;
+}
+#as1{
+    margin-left: 4em;
+}
+#cot1-2{
+    padding: 18px;
+   background-color: white;
+   color: black;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-left: -10px;
+   border-left: 0.5px solid gray;
+}
+#cot1-3{
+    width: 140px;
+    padding: 18px;
+   background-color: red;
+   color: white;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-left: 25px;
+   border: none;
+}
+.content{
+    margin-left: 180px;
+    height: 170px;
+} 
+#con1{
+    width:150px;
+    height: 150px;
+    position: absolute;
+   box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: -75px;
+   
+    
+}
+#house{
+    font-size: 50px;
+    margin: 20px 0;
+    
+}
+#h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: gray;
+    margin-top: 10px;
+}
+#aq{
+    font-size: 50px;
+    color: brown;
+}
+#con2{
+    width:150px;
+    height: 150px;
+    position: absolute;
+   box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: -75px;
+    margin-left: 180px;
+ 
+}
+#con3{
+    width:150px;
+    height: 150px;
+    position: absolute;
+   box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: -75px;
+    margin-left: 360px;
+   
+}
+#con4{
+    width:150px;
+    height: 150px;
+    position: absolute;
+   box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: -75px;
+    margin-left: 540px;
+}
+#con5{
+    width:150px;
+    height: 150px;
+    position: absolute;
+   box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: -75px;
+    margin-left: 720px;
+}
+.head{
+    text-align: center;
+    height: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#head1{
+    font-size: 18px;
+    margin-top: 20px;
+}
+#head2{
+    font-size: 12px;
+    color: gray;
+    margin-top: 1.5em;
+}
+.table{
+   font-family: Arial, Helvetica, sans-serif;
+   display: flex;
+  justify-content: space-around;
+  margin-left: 160px;
+  margin-right: 160px;
+}
+#ta1{
+    font-size: 14px;
+}
+#tab1{
+    width: 300px;
+    height: 330px;
+    /* border: 0.3px solid gray; */
+    box-shadow: 0 0 1px rgba(0,0,0,0.5);
+    text-align: center;
+    
+   
+}
+#tab1-1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top: 50px;
+    background-color: #eef2f6;
+    margin-left: 95px;
+}
+#house1{
+    font-size: 42px;
+    padding: 18px;
+    margin-left: 5px;
+    color: gray;
+}
+h2{
+    margin: 20px 0;
+}
+#s1{
+    width: 100px;
+    height: 30px;
+    margin-top: 18px;
+    background-color: white;
+    padding: 6px ;
+    border: 1px solid gray;
+    color: gray;
+}
+.h1{
+    margin-top: 170px;
+    text-align: center;
+    height: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.background{
+    background-color: #f8fafb;
+}
+.insert{
+    margin-left: 160px;
+    margin-right: 160px;
+    display:flex;
+    margin-top: 16px;
+   
+}
+#in1{
+   width:330px ;
+   margin-left: 10px;
+}
+#e1{
+    width: 330px;
+}
+#sp1{
+    background-color: blue;
+    color: white;
+    padding:0.5px 4px;
+}
+#sp2{
+    margin: 3px 5px;
+    padding-right: 5px;
+    border-right: 1px solid gray;
+}
+#sp3{
+    color: red;
+    padding: 10px;
+}
+#sp4{
+    margin: 3px 5px;
+    padding-left: 5px;
+    border-left: 1px solid gray;
+}
+h3{
+    line-height: 45px;
+}
+#chen{
+    width:330px ;
+    box-shadow: 0 0 1px rgba(0,0,0,0.5);
+    margin-right: 15px;
+}
+#in2{
+    display: flex;
+    margin-top: 20px;
+    border-bottom:  1px solid gray;
+    margin-left: 10px;
+    margin-right:10px ;
+    padding-bottom: 15px;
+}
+#c1{
+    height: 35px;
+ 
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+#f2{
+    padding: 10px;
+}
+#f1{
+    color: green;
+    padding: 10px;
+}
+#sp5{
+    background-color: green;
+    color: white;
+    padding:0.5px 4px;
+}
+#sp6{
+    background-color: orange;
+    color: white;
+    padding:0.5px 4px;
+}
+#cd1{
+    width: 230px;
+    height: 245px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    padding-top:20px ;
+    margin-right: 12px;
+}
+#c2{
+    width: 50px;
+    height: 50px;
+    margin-top: 18px;
+    margin-left: 12px;
+}
+#cd1-1{
+    margin-right: 40px;
+    float: right;
+}
+#star{
+    color: yellow;
+    margin-right: 6px;
+}
+#pa{
+    padding-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.chuyendong{
+    margin-top: 30px;
+    display: flex;
+}
+#cd1-2{
+    margin-right: 20px;
+    float: right;
+}
+#cd2{
+    width: 230px;
+    height: 245px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    padding-top:20px ;
+    margin-right: 12px;
+    margin-top: -25px;
+}
